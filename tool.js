@@ -14,6 +14,7 @@ function huandong(ele, target) {
         }
     }, 30)
 }
+//我是第二次插入的测试文字
 //倒计时
 // function djs() {
 //     var today=new Date();
